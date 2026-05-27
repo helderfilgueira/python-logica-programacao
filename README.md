@@ -1,5 +1,3 @@
-# python-logica-programacao
-
 # Estudos de Python e Lógica de Programação
 
 Este repositório reúne minhas atividades práticas de Python, algoritmos e lógica de programação.
